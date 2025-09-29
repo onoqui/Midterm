@@ -91,7 +91,7 @@ nav a:hover{ color:var(--baby-purple-dark); }
 
 /* =============== HERO =============== */
 .hero{
-  background:#f8f9fa url('images/Living_room_backround.png') center/cover no-repeat;
+  background:#f8f9fa url('Living_room_backround.png') center/cover no-repeat;
   min-height:100vh;
   text-align:center; padding:140px 20px 100px;
   display:flex; flex-direction:column; justify-content:center;
